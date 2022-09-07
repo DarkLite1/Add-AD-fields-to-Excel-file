@@ -7,6 +7,8 @@
         Add AD properties to an Excel worksheet.
 
     .DESCRIPTION
+        Complement user data in an Excel sheet with data from active directory
+
         This script is useful for retrieving data from the active directory for 
         all the users found in the rows of the Excel sheet. The match between 
         the row in Excel and the active directory is based on the key value 
